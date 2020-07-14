@@ -50,6 +50,6 @@ public class Lesson1 {
 		}
 		System.out.println("\nМаксимальне значення елементу массиву: " + maxValue);
 		System.out.println("Мінімальне значення елементу массиву: " + minValue);
-		System.out.println("123");
+		
 	}
 }
